@@ -4,3 +4,4 @@ spring:
         username: prod_user
         password: prod_pass
         driver-class-name: org.mariadb.jdbc.Driver
+message: "This is prod env"

@@ -7,3 +7,5 @@ spring:
 logging:
     level:
         root: DEBUG
+
+message: "This is local env"
