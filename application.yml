@@ -1,0 +1,11 @@
+logging:
+  level:
+    root: INFO
+
+spring:
+  application:
+    name: global
+  cloud:
+    config:
+      label: main
+      fail-fast: true
